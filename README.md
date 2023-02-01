@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email:bhagwatharshal8@gmail.com | Codechef ID: https://www.codechef.com/users/harshal169
+- 📫 How to reach me Email:bhagwatharshal8@gmail.com | Codechef ID: https://www.codechef.com/users/harshal169 | Linkedin ID: https://www.linkedin.com/in/harshal-bhagwat-b6a7a0231/
 - 
 
 <!---
